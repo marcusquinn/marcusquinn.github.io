@@ -20,7 +20,7 @@ keywords: [Personal Website, Work, Ecommerce, Social Media, Links, Software, Hos
 *It seems fitting to make my home page a collection of useful links to all the places I share my experience, tutorials, published articles, templates, resources, and the tools I enjoy working with.*
 *I hope my ongoing personal research & development can help you to **find in minutes what took me years** to refine.*
 *And, if you want to make a simple and free page like this too, there's a step-by-step guide and source-files below.*
-*Thank you for your interest in my work. If I can help in any way, that’s the good karma I live by - and if I already have, please do subscribe & share.*
+*Thank you for your interest. If I can help in any way, that’s the good karma I live by - and if I already have, please do subscribe & share.*
 
 *Marcus*
 
@@ -65,7 +65,7 @@ Most recent first:
 
 My preferred method of personal introduction is by email to: [hello@marcusquinn.com](mailto:hello@marcusquinn.com)
 
-All personal links are for reference, if we already know each other. If we don’t, please start with a follow on [Twitter](https://twitter.com/marcuswquinn) or [another platform](#personal-links), so I can learn a little about you too.
+All personal links are for reference if we already know each other. If we don’t, please start with a follow on [Twitter](https://twitter.com/marcuswquinn) or [another platform](#personal-links), so I can learn a little about you too.
 
 ## Bookings
 
@@ -85,7 +85,7 @@ All personal links are for reference, if we already know each other. If we don�
 ---- 
 
 # Experience & Preferences
-If you want to do some or all of the things I do - or you need me or my good team to help you - this is what we know and use…
+If you want to do some or all of the things I do - or you need me or my good friends to help you - this is what we know and use…
 
 ## Operating Systems
 In order of experience:
@@ -105,8 +105,8 @@ In approximate order of usage and recommendation:
 * [GitLab](https://about.gitlab.com) (preferred project & code management app)
 * [GMail](https://mail.google.com) (auto-organised emailing & personal CRM)
 * [Zero Bounce](https://www.zerobounce.net) (email validation)
-* [Mailchimp](https://mailchimp.com) (up to 2,000 contacts)
-* [Email Octopus](https://emailoctopus.com) (more contact for less cost)
+* [Mailchimp](https://mailchimp.com) (mailing-list integrations)
+* [Email Octopus](https://emailoctopus.com) (more contacts for less cost)
 * [Freshdesk](https://freshdesk.com) (multi-channel support)
 * [Brandlight CMS](https://brandlight.org)\* (private, secure & encrypted)
 * [Apple Messages](https://support.apple.com/explore/messages) & [FaceTime](https://apps.apple.com/us/app/facetime/id1110145091) (private, secure & encrypted)
@@ -408,9 +408,9 @@ I’ll add a more detailed step-by-step guide with screenshots for setting up yo
 
 \*\**Why GitLab in preference over GitHub?*
 
-*One word: **ethics**. Its my primary guide to decision-making when all else is equal. Open-source and transparency is simply more secure and efficient.*
+*One word: **ethics**. Its my primary guide to all decision-making. Open-source and transparency is simply more secure and efficient.*
 
-*I do use GitHub and other closed-source product too - but always keep an awareness of open-source alternatives, and aim to keep my content created and stored in open-formats with transparent-terms, to stay transportable between systems and platforms as they may evolve.*
+*I do use GitHub and other closed-source products too - but always keep an awareness of open-source alternatives, and aim to keep my content created and stored in open-formats with transparent-terms, to stay transportable between systems and platforms as they may evolve.*
 ---- 
 
 # Thank you
