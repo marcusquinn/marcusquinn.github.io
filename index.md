@@ -16,9 +16,9 @@ keywords: [Personal Website, Work, Ecommerce, Social Media, Links, Software, Hos
 *My life’s work, as instilled by my ever thoughtful mother, is simply to; **leave things better than I find them**.*
 *I’m guessing you’re here to learn more about me, or find something I use or recommended, so here we go…*
 *The majority of my work is in ecommerce web design and development - creating and using a variety of software.*
-*My focus is on creative communications and time-saving systems, designed to cost less and achieve more.*
-*It seems fitting to make my home page a collection of useful links to all the places I share my experience, tutorials, published articles, templates, resources, and the tools I enjoy working with.*
-*I hope my ongoing personal research & development can help you to **find in minutes what took me years** to refine.*
+*My focus is on creative communications and efficiency systems, designed to achieve more with less.*
+*It seems fitting to make my home page a collection of useful links to all the places I share my experience, tutorials, published articles, templates, resources, and the tools I like working with.*
+*I hope my ongoing research & development can help you to **find in minutes what took me years** to refine.*
 *And, if you want to make a simple and free page like this too, there's a step-by-step guide and source-files below.*
 *Thank you for your interest. If I can help in any way, that’s the good karma I live by - and if I already have, please do subscribe & share.*
 
@@ -40,8 +40,8 @@ Most recent first:
 
 ## Personal links
 
-* [Website](https://www.namecheap.com/domains/) - [marcusquinn.com](https://marcusquinn.com)
-* [Email](https://www.namecheap.com/hosting/email/) - [hello@marcusquinn.com](mailto:hello@marcusquinn.com) (preferred contact method)
+* [Website](https://www.jdoqocy.com/click-100171151-13266668) - [marcusquinn.com](https://marcusquinn.com)
+* [Email](https://www.dpbolvw.net/click-100171151-13269549) - [hello@marcusquinn.com](mailto:hello@marcusquinn.com) (preferred contact method)
 * [Twitter](https://twitter.com) - [twitter.com/marcuswquinn](https://twitter.com/marcuswquinn) (follow for news & muse)
 * [GitLab](https://about.gitlab.com) - [gitlab.com/marcusquinn](https://gitlab.com/marcusquinn) (code & resources) & [marcusquinn.gitlab.io](https://marcusquinn.gitlab.io) (website mirror)
 * [GitHub](https://github.com) - [github.com/marcusquinn](https://github.com/marcusquinn) (GitLab mirror) & [marcusquinn.github.io](https://marcusquinn.github.io) (website mirror)
@@ -92,7 +92,7 @@ In order of experience:
 1. [Mac](https://www.apple.com/mac/)
 2. [WebApps](https://en.wikipedia.org/wiki/Web_application)
 3. [Windows](https://www.microsoft.com/windows/)
-4. [Linux](https://www.linux.org/)\*
+4. [Linux](https://www.linux.org/)\* & [Pop!\_OS](https://pop.system76.com)\*
 5. [ChromeOS](https://www.google.com/chromebook/chrome-os/)
 6. [iOS](https://www.apple.com/ios)
 7. [Android](https://www.android.com/)
@@ -108,6 +108,7 @@ In approximate order of usage and recommendation:
 * [Mailchimp](https://mailchimp.com) (mailing-list integrations)
 * [Email Octopus](https://emailoctopus.com) (more contacts for less cost)
 * [Freshdesk](https://freshdesk.com) (multi-channel support)
+* [Crisp](https://crisp.chat) (website live chat & support)
 * [Brandlight CMS](https://brandlight.org)\* (private, secure & encrypted)
 * [Apple Messages](https://support.apple.com/explore/messages) & [FaceTime](https://apps.apple.com/us/app/facetime/id1110145091) (private, secure & encrypted)
 * [Telegram](https://telegram.org) (private, secure & encrypted)
@@ -122,6 +123,7 @@ In approximate order of usage and recommendation:
 * [iA Writer](https://ia.net/writer), [Scrivener](https://www.literatureandlatte.com/scrivener/overview) (for longer articles and creative writing)
 * [Apple Notes](https://support.apple.com/guide/notes/welcome/mac), [Reminders](https://support.apple.com/guide/reminders/welcome/mac), [Calendar](https://support.apple.com/guide/calendar/welcome/mac) & [Siri](https://www.apple.com/siri/)
 * [Google Apps](https://gsuite.google.com/) (almost all of them)
+* [Woven](https://woven.com) (awesome multi-calendaring and time-planning)
 * [LibreOffice](https://www.libreoffice.org/)\* (documents & spreadsheets)
 * [Nextcloud](https://nextcloud.com/)\* (file storage)
 * [JumpDesktop](https://jumpdesktop.com/) (remote desktops & servers)
@@ -172,11 +174,17 @@ In approximate order of usage and recommendation:
 * [Electron](https://www.electronjs.org) (webapps)
 
 ### Hosting
-* [Vultr](https://www.vultr.com/) (website hosting & webapp services)
+* [Runcloud](https://runcloud.io/r/ayg5VnzE5X01)
+* [Rancher](https://rancher.com)
+* [Grafana](https://grafana.com)
+* [Prometheus](https://prometheus.io)
+* [Vultr](https://www.vultr.com/?ref=8626266-6G) (website hosting & webapp services - $100 sign-up credit)
 * [Microsoft Azure](https://azure.microsoft.com/) (websites & databases)
 * [Google Cloud Platform](https://cloud.google.com/) (translation & data-processing (AI))
 * [Amazon AWS](https://aws.amazon.com/) (when alternatives in the above don’t exist)
 * [GitLab](https://about.gitlab.com)\* & [GitHub](https://github.com) (code & project management)
+* [Wasabi](https://wasabi.com) (file storage - efficient alternative to Amazon S3)
+* [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html#af9v9u) (file storage and backups - efficient alternative to Amazon S3)
 * [Tab Digital](https://cloud.tab.digital/) ([Nextcloud](https://nextcloud.com/)\*) (file storage & sharing)
 * [Google Drive](https://www.google.com/drive/) (file storage & sharing)
 * [Dropbox](https://www.dropbox.com/?_hp=c) (file storage & sharing)
@@ -201,10 +209,11 @@ In approximate order of usage and recommendation:
 * [Microsoft Dynamics NAV](https://dynamics.microsoft.com/en-us/nav-overview/) & [MSSQL](https://www.microsoft.com/en-us/sql-server/)
 * [Wordpress](https://wordpress.org)\* & [MySQL](https://www.mysql.com/)\* with [MariaDB](https://mariadb.org/)\*
 
-### Domain & Network Management
-* [Namecheap](https://www.namecheap.com/) (good if you need collaborative assistance too)
+### Domains & Network Management
+* [Namecheap](https://www.dpbolvw.net/click-100171151-13346111) (good if you need collaborative assistance too)
 * [Ionos 1&1](https://www.ionos.co.uk/)
 * [Marcaria](https://www.marcaria.com/) (international domains others don’t cover)
+* [Sedo](https://sedo.com/?language=us&campaignId=326057) (domain resale marketplace)
 * [Cloudflare](https://www.cloudflare.com/) (hosting direction & security, good if you need collaborative assistance too)
 * [DNS Made Easy](https://dnsmadeeasy.com) (fastest DNS service)
 * [BuddyNS](https://www.buddyns.com/) (backup DNS)
@@ -221,7 +230,7 @@ In approximate order of usage and recommendation:
 * [Transferwise](https://transferwise.com/) (multi-currency-banking for lower exchange-rate costs)
 * [Monzo](https://monzo.com/) (multi-currency payments to save on exchange     costs)
 * [Blockchain Exchange](https://exchange.blockchain.com/) (the cheapest & safest way I know to buy Bitcoin and other crypto-currencies)
-									
+
 ### Music & Audio
 * [Spotify](https://www.spotify.com/)
 * [SoundCloud](https://soundcloud.com/)
@@ -229,6 +238,7 @@ In approximate order of usage and recommendation:
 * [Apple Music](https://www.apple.com/music/)
 * [Ableton](https://www.ableton.com/) & [GitLab.com/ableton](https://gitlab.com/ableton)
 * [Logic Pro](https://www.apple.com/logic-pro/)
+* [Splice Studio](https://splice.com/studio)
 
 ### Video
 * [Wondershare Filmora](https://filmora.wondershare.com/)
@@ -242,6 +252,12 @@ In approximate order of usage and recommendation:
 ### Utilities
 * [WebCatalog](https://webcatalogapp.com/)\*
 * [Choosy](https://www.choosyosx.com/)
+* [Smart Scroll](http://marcmoini.com/sx_en.html)
+* [Backblaze](https://www.backblaze.com/cloud-backup.html#af9v9u) (unlimited backups)
+
+### News
+* [New Scientist](https://www.newscientist.com)
+* [The Register](https://www.theregister.com)
 
 ### Federated Publishing
 * [PeerTube](https://joinpeertube.org)\* ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) alternative to [YouTube](https://www.youtube.com/))
@@ -318,9 +334,9 @@ I’ll start with the Mac & iOS apps I use, enjoy and recommend - in approximate
 	* I wrote this whole page in [Ulysses](https://ulysses.app/) and exported the HTML using the [Simplicity](https://styles.ulysses.app/styles/simplicity-Yym) theme from the [Style Library](https://styles.ulysses.app/).
 * [https://styles.ulysses.app/](https://styles.ulysses.app/)
 	* Favourite editor style: [Atom One](https://styles.ulysses.app/themes/atom-one-MzZ).
-	* Favourite HTML styles: [Ghost 2 Casper](https://styles.ulysses.app/styles/ghost-2-casper-ApN), [Pro Sans](https://styles.ulysses.app/styles/pro-sans-8Zp), [Medium Style](https://styles.ulysses.app/styles/medium-style-lRL), [Simplicity](https://styles.ulysses.app/styles/simplicity-Yym), [GitHub](https://styles.ulysses.app/styles/github-LVR).
+	* Favourite HTML styles: [Simplicity](https://styles.ulysses.app/styles/simplicity-Yym), [Ghost 2 Casper](https://styles.ulysses.app/styles/ghost-2-casper-ApN), [Pro Sans](https://styles.ulysses.app/styles/pro-sans-8Zp), [Medium Style](https://styles.ulysses.app/styles/medium-style-lRL), [GitHub](https://styles.ulysses.app/styles/github-LVR).
 	* Favourite PDF style: [Standard Article](https://styles.ulysses.app/styles/standard-article-BNa).
-	* Favourite ePub styles: [Simple](https://styles.ulysses.app/styles/simple-m7M), [Meet Charter Half Way](https://styles.ulysses.app/styles/meet-charter-half-way-mLZ), [Medium](https://styles.ulysses.app/styles/medium-style-Ny9), [Amazon KDP](https://styles.ulysses.app/styles/amazon-kdp-evn).
+	* Favourite ePub styles: [Simple](https://styles.ulysses.app/styles/simple-m7M), [Amazon KDP](https://styles.ulysses.app/styles/amazon-kdp-evn), [Gemmell Novel](https://styles.ulysses.app/styles/gemmell-novel-4YN), [Meet Charter Half Way](https://styles.ulysses.app/styles/meet-charter-half-way-mLZ), [Medium](https://styles.ulysses.app/styles/medium-style-Ny9).
 ### Atom\*
   * [https://atom.io](https://atom.io)
 	* This is used more commonly in code development but comparable as a text editor to [Ulysses](https://ulysses.app/) and [iA Writer](https://ia.net/writer).
@@ -404,7 +420,7 @@ The reason we do this with a static page `.html`, and not a data-base driven con
 
 By using well-capitalised free services like [GitLab](https://about.gitlab.io), [GitHub](https://github.com) & [Cloudflare](https://cloudflare.com), it can stay alive forever - and with no payments ever needed to keep the `.io` URL versions of the sites live for as long as the internet itself, you can make as many sites & pages as you like!
 
-I’ll add a more detailed step-by-step guide with screenshots for setting up your own domain name using [Namecheap](https://www.namecheap.com/) & [Cloudflare](https://www.cloudflare.com/) at some point too. And just [email me](mailto:hello@marcusquinn.com) if you need a hand.
+I’ll add a more detailed step-by-step guide with screenshots for setting up your own domain name using [Namecheap](https://www.dpbolvw.net/click-100171151-13346111) & [Cloudflare](https://www.cloudflare.com/) at some point too. And just [email me](mailto:hello@marcusquinn.com) if you need a hand.
 
 \*\**Why GitLab in preference over GitHub?*
 
@@ -427,3 +443,5 @@ This page is just over 3,000 words, 2-days of writing and maybe 1-week refining.
 [^1]:	*Free (as-in freedom) Open-Source Software (FOSS) - is an ethical way to provide software services for; transparency, security, freedom, privacy, data-ownership, collaboration, developer credit & promotion - and simply good online citizen karma in return for the countless community projects you already benefit from that form the foundations a free and inclusive internet.* [https://en.wikipedia.org/wiki/Free\_and\_open-source\_software](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
 [^2]:	Zettelkasten is German for “box of notes”, and has become a synonym for the guiding principles in gathering, organising, digesting and using notes in writing, with interesting further reading on the subject at: [https://zettelkasten.de](https://zettelkasten.de)
+
+#Index #Home Page# #Personal Website# #Markdown #Writing #Links #Software #Music #Video #Plain Text# #Audio #Preferences #Setup #Hosting #Marketing #Communications #Copywriting #Technical Writing# #Services #Static Site# #JAMstack #Javascript #APIs #Ulysses #Namecheap #GitLab #GitHub #Platforms #Stack #Serverless
