@@ -128,7 +128,8 @@ In approximate order of usage and recommendation:
 * [Nextcloud](https://nextcloud.com/)\* (file storage)
 * [JumpDesktop](https://jumpdesktop.com/) (remote desktops & servers)
 * [Guacamole](https://guacamole.apache.org/)\* (remote desktops & servers through a web browser)
-* [Alfred](https://www.alfredapp.com/) (search & shortcuts)
+* [Alfred](https://www.alfredapp.com/) (search & navigating shortcuts)
+* [Short Menu](https://shortmenu.com) (url shortening shortcuts for shorties)
 
 ### Security
 * [Enpass](https://www.enpass.io/) (password manager & two-factor authentication)
@@ -158,9 +159,9 @@ In approximate order of usage and recommendation:
 * [Affinity Designer](https://affinity.serif.com/) (image processing)
 
 ### Development
-  
   * [GitLab](https://about.gitlab.com)\* & [GitHub](https://github.com) (code & project management)
 * [Wordpress](https://wordpress.org)\* & [WooCommerce](https://woocommerce.com)\* - [PHP](https://www.php.net/)\* & [MySQL](https://www.mysql.com/)\* (default website stack)
+* [Ghost](https://ghost.org) (recommended personal blog, publishing and membership platform)
 * [Atom](https://atom.io/)\* & [GitHub Desktop](https://desktop.github.com/)\* (coding and deployment)
 * [Apple Terminal](https://support.apple.com/guide/terminal/welcome/mac) (sometimes it’s quicker)
 * [Integromat](https://www.integromat.com/) (API integrations)
@@ -174,17 +175,20 @@ In approximate order of usage and recommendation:
 * [Electron](https://www.electronjs.org) (webapps)
 
 ### Hosting
-* [Runcloud](https://runcloud.io/r/ayg5VnzE5X01)
-* [Rancher](https://rancher.com)
-* [Grafana](https://grafana.com)
-* [Prometheus](https://prometheus.io)
-* [Vultr](https://www.vultr.com/?ref=8626266-6G) (website hosting & webapp services - $100 sign-up credit)
+* [Hetzner](https://www.hetzner.com) (website & webapp hosting, including network-level DDos protection) 
+* [Scaleway](https://www.scaleway.com/) (website & webapp hosting, including network-level DDos protection and affordable managed kubernetes)
+* [Vultr](https://www.vultr.com/?ref=8626266-6G) (website & webapp hosting - $100 sign-up credit)
+* [Upcloud](https://upcloud.com/signup/?promo=4D752R) (website & webapp hosting - $100 sign-up credit)
+* [Digital Ocean](https://m.do.co/c/bf3ea8ce70f7) (website & webapp hosting, including managed kubernetes - $100 sign-up credit)
 * [Microsoft Azure](https://azure.microsoft.com/) (websites & databases)
 * [Google Cloud Platform](https://cloud.google.com/) (translation & data-processing (AI))
 * [Amazon AWS](https://aws.amazon.com/) (when alternatives in the above don’t exist)
 * [GitLab](https://about.gitlab.com)\* & [GitHub](https://github.com) (code & project management)
-* [Wasabi](https://wasabi.com) (file storage - efficient alternative to Amazon S3)
+* [Cloudron](https://cloudron.io) (1-month free with code `d28ae00540f92a76`)
 * [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html#af9v9u) (file storage and backups - efficient alternative to Amazon S3)
+* [Wasabi](https://wasabi.com) (file storage - efficient alternative to Amazon S3)
+* [Digital Press](https://www.digitalpress.blog) ([Ghost](https://ghost.org)\* hosting)
+* [Updown](https://updown.io) (website status & speed monitoring)
 * [Tab Digital](https://cloud.tab.digital/) ([Nextcloud](https://nextcloud.com/)\*) (file storage & sharing)
 * [Google Drive](https://www.google.com/drive/) (file storage & sharing)
 * [Dropbox](https://www.dropbox.com/?_hp=c) (file storage & sharing)
@@ -192,6 +196,10 @@ In approximate order of usage and recommendation:
 * [SparkleShare](https://www.sparkleshare.org/)\* (git-based file storage & sharing)
 * [Paperspace](https://www.paperspace.com/) (remote desktop clients)
 * [iRedMail](https://www.iredmail.org)\* (email servers)
+* [Runcloud](https://runcloud.io/r/ayg5VnzE5X01)
+* [Rancher](https://rancher.com)
+* [Grafana](https://grafana.com)
+* [Prometheus](https://prometheus.io)
 
 ### Marketing
   * [Brandlight Ecommerce](https://brandlight.org)\*
@@ -208,16 +216,24 @@ In approximate order of usage and recommendation:
 * [Google Sheets](https://www.google.com/sheets/about/)
 * [Microsoft Dynamics NAV](https://dynamics.microsoft.com/en-us/nav-overview/) & [MSSQL](https://www.microsoft.com/en-us/sql-server/)
 * [Wordpress](https://wordpress.org)\* & [MySQL](https://www.mysql.com/)\* with [MariaDB](https://mariadb.org/)\*
+* [Matomo](https://matomo.org)\*
+* [Metabase](https://www.metabase.com)\*
 
 ### Domains & Network Management
 * [Namecheap](https://www.dpbolvw.net/click-100171151-13346111) (good if you need collaborative assistance too)
-* [Ionos 1&1](https://www.ionos.co.uk/)
+* [Ionos 1&1](https://www.ionos.co.uk/) (covers some other domain extensions)
 * [Marcaria](https://www.marcaria.com/) (international domains others don’t cover)
 * [Sedo](https://sedo.com/?language=us&campaignId=326057) (domain resale marketplace)
 * [Cloudflare](https://www.cloudflare.com/) (hosting direction & security, good if you need collaborative assistance too)
 * [DNS Made Easy](https://dnsmadeeasy.com) (fastest DNS service)
+* [DNSimple](https://dnsimple.com) (fastest managed DNS service)
 * [BuddyNS](https://www.buddyns.com/) (backup DNS)
 * [Amazon AWS Route53](https://aws.amazon.com/route53/) (alternative DNS)
+* [DNSPerf](https://www.dnsperf.com) (DNS performance & service comparison)
+* [DNSFilter](https://www.dnsfilter.com) (DNS-level user protection)
+* [BunnyCDN](https://bunnycdn.com) (fast and affordable Content Delivery Network for speeding up website access to audiences around the world)
+* [X4B](https://www.x4b.net/) (firewall as a service for hosts that don’t have that)
+* [Sercurius ](https://sercurius.net/ "https://sercurius.net") (test your website & web app for security best-practice)
 
 ### Payment Processing
 * [Paypal](https://www.paypal.com/) (default)
