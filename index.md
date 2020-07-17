@@ -1,5 +1,4 @@
 # Home
-
 —
 layout: post
 title: `Marcus Quinn: Ecommerce Designer & Developer`
@@ -12,14 +11,22 @@ keywords: [Personal Website, Work, Ecommerce, Social Media, Links, Software, Hos
 ---- 
 
 # Introduction
-**Hello world!**
-*My life’s work, as instilled by my ever thoughtful mother, is simply to; **leave things better than I find them**.*
+—
+*Hello!*
+
 *I’m guessing you’re here to learn more about me, or find something I use or recommended, so here we go…*
+
+*My life’s work, as instilled by my ever thoughtful mother, is simply to; **leave things better than I find them**.*
+
 *The majority of my work is in ecommerce web design and development - creating and using a variety of software.*
 *My focus is on creative communications and efficiency systems, designed to achieve more with less.*
+
 *It seems fitting to make my home page a collection of useful links to all the places I share my experience, tutorials, published articles, templates, resources, and the tools I like working with.*
+
 *I hope my ongoing research & development can help you to **find in minutes what took me years** to refine.*
+
 *And, if you want to make a simple and free page like this too, there's a step-by-step guide and source-files below.*
+
 *Thank you for your interest. If I can help in any way, that’s the good karma I live by - and if I already have, please do subscribe & share.*
 
 *Marcus*
